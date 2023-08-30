@@ -1,0 +1,19 @@
+h1{
+    color:blue;
+}
+
+p{
+    border-style: solid;
+    border-width: thick;
+}
+a{
+    border-radius: 10px;
+    border-style: solid;
+    padding: 4px 10px;
+    border-color: orange;
+    border-width: 2px;
+    border-width: thick;
+}
+a:hover{
+background-color: orange
+}

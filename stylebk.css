@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+    background-color: chocolate;
+}
+
+p{
+    background-color: deeppink;
+    opacity: 0.4;
+}
+.container{
+    background-color: cadetblue;
+    width: 600px;
+    height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1634655377962-e6e7b446e7e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJhY2slMjBncm91bmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: repeat;
+}
